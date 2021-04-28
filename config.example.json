@@ -1,0 +1,9 @@
+{
+  "gitlab.token": "",
+  "gitlabLabelToJiraProject": {
+    "project::eng": "ENG"
+  },
+  "gitlabRepoToJiraProject": {
+    "org/eng": "ENG"
+  }
+}
